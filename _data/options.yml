@@ -1,0 +1,12 @@
+- key: lineNumbers
+  name: Line numbers
+  checked: false
+- key: _unescape
+  name: Unescape
+  checked: false
+- key: methodChain
+  name: Method chaining
+  checked: true
+- key: calc
+  name: Math calculation
+  checked: true
